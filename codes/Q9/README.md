@@ -1,0 +1,1 @@
+Implement a 64-bit register file with 32 register with 4 read ports and 2 write ports. Multiple operations can occur at a time, but the lower port is given more priority in such cases. Read > Write .

@@ -1,0 +1,1 @@
+Implement an 8-bit PIPO shift register using behavioral modeling.

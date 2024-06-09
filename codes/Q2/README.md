@@ -1,0 +1,1 @@
+Implement an 8-bit register using behavioral modeling with a single read and write port such that both read and write operations can occur simultaneously, but when they do read is given more priority.

@@ -1,0 +1,1 @@
+Implement an 8-bit register with 1 read port and 2 write ports. Either read or write is permitted at a time and when you perform write, you are to write through the two write ports alternately.

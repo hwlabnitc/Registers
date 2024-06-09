@@ -1,0 +1,1 @@
+Implement an 8-bit SIPO shift register using behavioral modeling.
