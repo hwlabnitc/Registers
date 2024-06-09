@@ -1,0 +1,1 @@
+Implement an 8-bit register file with 8 registers such that only a read or write can occur at a time.
