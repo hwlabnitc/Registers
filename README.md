@@ -3,25 +3,25 @@
 
 Q1: Implement a 4-bit register using D flip-flops.
 
-[Solution Code: ](https://github.com/srii5477/Registers-HWLab/blob/main/codes/Q1/register.v)
+[Solution Code: ](https://github.com/srii5477/Registers-HWLab/blob/main/codes/Q1/register.v)  
 [Testbench Code: ](https://github.com/srii5477/Registers-HWLab/blob/main/codes/Q1/register_tb.v)
 
 
 Q2: Implement an 8-bit register using behavioral modeling with a single read and write port such that both read and write operations can occur simultaneously, but when they do read is given more priority.
 
-[Solution Code: ](https://github.com/srii5477/Registers-HWLab/blob/main/codes/Q2/registeroperations.v)
+[Solution Code: ](https://github.com/srii5477/Registers-HWLab/blob/main/codes/Q2/registeroperations.v)  
 [Testbench Code: ](https://github.com/srii5477/Registers-HWLab/blob/main/codes/Q2/registeroperations_tb.v)
 
 
 Q3: Implement an 8-bit SISO shift register using behavioral modeling.
 
-[Solution Code: ](https://github.com/srii5477/Registers-HWLab/blob/main/codes/Q3/shiftregister_SISO.v)
+[Solution Code: ](https://github.com/srii5477/Registers-HWLab/blob/main/codes/Q3/shiftregister_SISO.v)  
 [Testbench Code: ](https://github.com/srii5477/Registers-HWLab/blob/main/codes/Q3/shiftregister_SISO_tb.v)
 
 
 Q4: Implement an 8-bit SIPO shift register using behavioral modeling.
 
-[Solution Code](https://github.com/srii5477/Registers-HWLab/blob/main/codes/Q4/shiftregister_SIPO.v)  
+[Solution Code](https://github.com/srii5477/Registers-HWLab/blob/main/codes/Q4/shiftregister_SIPO.v)   
 [Testbench Code](https://github.com/srii5477/Registers-HWLab/blob/main/codes/Q4/shiftregister_SIPO_tb.v)
 
 
@@ -33,7 +33,7 @@ Q5: Implement an 8-bit PISO shift register using behavioral modeling.
 
 Q6: Implement an 8-bit PIPO shift register using behavioral modeling.
 
-[Solution Code](https://github.com/srii5477/Registers-HWLab/blob/main/codes/Q6/shiftregister_PIPO.v)  
+[Solution Code](https://github.com/srii5477/Registers-HWLab/blob/main/codes/Q6/shiftregister_PIPO.v)   
 [Testbench Code](https://github.com/srii5477/Registers-HWLab/blob/main/codes/Q6/shiftregister_PIPO_tb.v)
 
 Q7: Implement an 8-bit register with 1 read port and 2 write ports. Either read or write is permitted at a time and when you perform write, you are to write through the two write ports alternately.
