@@ -1,4 +1,6 @@
 # Questions, Codes & Their Solutions
+![](./HWL_Logo.png)
+
 ## Try these questions on your own before you head to the solutions.
 
 Q1: Implement a 4-bit register using D flip-flops.
