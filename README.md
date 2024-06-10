@@ -1,5 +1,6 @@
 # Questions, Codes & Their Solutions
-![](./HWL_Logo.png)
+<img src="./HWL_Logo.png" style="max-width:300px;">
+
 
 ## Try these questions on your own before you head to the solutions.
 
